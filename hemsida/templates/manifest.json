@@ -1,0 +1,28 @@
+[
+  {
+    "id": "faktura-a4",
+    "name": "Fakturagenerator – A4",
+    "description": "A4‑faktura/kvitto med 600 DPI PDF‑export, radvis moms och juridisk fotnot. Redo att använda direkt.",
+    "path": "/templates/faktura-a4/index.html",
+    "preview": "/templates/faktura-a4/preview.jpg",
+    "tags": [
+      "faktura",
+      "kvitto",
+      "PDF",
+      "A4"
+    ]
+  },
+  {
+    "id": "zalando",
+    "name": "Zalando-faktura",
+    "description": "Fakturamall med Zalando-logga som exempel. 600 DPI PDF, radvis moms, juridisk fot.",
+    "path": "/templates/zalando/index.html",
+    "preview": "/templates/zalando/preview.jpg",
+    "tags": [
+      "faktura",
+      "PDF",
+      "A4",
+      "exempel"
+    ]
+  }
+]
